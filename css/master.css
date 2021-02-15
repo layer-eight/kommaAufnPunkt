@@ -1,0 +1,14 @@
+body, *{
+    background-color: #000;
+    font-family: monospace;
+    color: #FFF;
+    font-size: 1.3em;
+}
+.img_center_div {
+    margin: 200px;
+}
+.horizontal_center{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
